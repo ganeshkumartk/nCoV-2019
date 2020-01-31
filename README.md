@@ -38,7 +38,7 @@ Suppose population follows binomial distribution Bin(p,N)
 ### Sensitivity analysis:
 Sensitivity analysis to estimate current cases in wuhan based on 3 scenarios:
 1. Baseline
-     - **8** or (67) overseas confirmed cases until Jan 22 and 29.
+     - **9** or (67) overseas confirmed cases until Jan 22 and 29.
      - 10 day mean time to detection
      - 19 million airportCatchment
 2. Smaller catchment:
